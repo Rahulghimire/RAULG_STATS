@@ -1,8 +1,5 @@
-### Hi there 👋
- 
-**ghimirerahul554@gmail.com**
-<h3 align="left">Connect with me:</h3>
- 
+### Hi, I am a Frontend Developer.
+**ghimirerahul554@gmail.com** 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulghimire&layout=compact)
  
 ## ❤ Views and Followers
