@@ -3,7 +3,7 @@
 **ghimirerahul554@gmail.com**
 <h3 align="left">Connect with me:</h3>
  
-![Raulghimire's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahulghimire&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulghimire&layout=compact)
  
 ## ❤ Views and Followers
 <a href="https://github.com/Rahulghimire/github-profile-views-counter">
